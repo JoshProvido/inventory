@@ -1,5 +1,4 @@
 <?php
-// ---- Database settings (XAMPP defaults) ----
 const DB_HOST = 'localhost';
 const DB_NAME = 'small_business_inventory';
 const DB_USER = 'root';
